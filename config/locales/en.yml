@@ -29,3 +29,22 @@ en:
       deactivate:
         success: Success deactivation
         error: Error when try deactivation
+  admins:
+    model:
+      email: Email
+      password: Password
+      password_confirmation: Password confirmation
+      activated: Activated
+    ui:
+      placeholders:
+        remember_me: Remember me
+        new_password: New password
+        confirm_new_password: Confirm new password
+      titles:
+        resend_confirmation: Resend confirmation instructions
+        change_pasword: Change your password
+        sign_in: Sign in
+      submits:
+        change_pasword: Change my password
+        
+
