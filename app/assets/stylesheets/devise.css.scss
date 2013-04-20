@@ -1,0 +1,6 @@
+#authbox {
+  height: 250px;
+  @include span-columns(6, 12);
+  @include isolate(4);
+  @include experimental-value(margin-top, calc(50%% - 250px));
+}

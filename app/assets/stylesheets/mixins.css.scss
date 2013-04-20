@@ -1,0 +1,14 @@
+// fonts fmilies and sizes mixings
+@mixin normal {
+  font-family: 'Sanchez', serif;
+}
+
+@mixin bold {
+  font-family: 'Sanchez', serif;
+  font-weight: 700;
+}
+
+@mixin italic {
+  font-family: 'Sanchez', serif;
+  font-style: italic;
+}
