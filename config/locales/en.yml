@@ -21,3 +21,11 @@
 
 en:
   hello: "Hello world"
+  activations_controller:
+    notices:
+      activate:
+        success: Success activation
+        error: Error when try activation
+      deactivate:
+        success: Success deactivation
+        error: Error when try deactivation

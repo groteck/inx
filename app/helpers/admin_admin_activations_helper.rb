@@ -1,0 +1,2 @@
+module AdminAdminActivationsHelper
+end
